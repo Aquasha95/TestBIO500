@@ -3,15 +3,7 @@ title: Réseau de collaborations des étudiants du cours BIO500 donné à l'Univ
 
 # Use letters for affiliations, numbers to show equal authorship (if applicable) and to indicate the corresponding author
 author:
-  - name: Alexandre Martineau
-    affiliation: a
-  - name: Clara Prévosto
-    affiliation: a
-  - name: Élisabeth Roy
-    affiliation: a
-  - name: Laura Beland
-    affiliation: a
-  - name: Laurence Boum
+  - name: Laura Béland
     affiliation: a
 
 address:
