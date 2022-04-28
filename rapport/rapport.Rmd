@@ -1,5 +1,5 @@
 ---
-title: Réseau de collaborations des étudiants du cours BIO500 donné à l'Université de Sherbrooke à l'hiver 2022
+title: Transparence et standard de reproductibilité et transparence. des principes importants en recherche.   
 
 # Use letters for affiliations, numbers to show equal authorship (if applicable) and to indicate the corresponding author
 author:
@@ -34,11 +34,13 @@ lineno: false
 
 # Introduction
 
+Depuis la pandémis, la quantité d'article scientifique publié sur des sites de pré-publication à énormément augmenté. Cette accès facile à la publication sans délais important et sans révisions par les paires est intéressante pour les chercheurs qui veulent faire connaître leurs recherches et cherchant la reconnaissance dans leur domaine. Cepandant, un article publié dans de tel site n'est pas révisé et peut contenir plusieurs erreurs qui, normalement, aurait pu être détecté avec la publication par des réviseur. Ainsi, la reproductibilité des résultats obtenu dans ses articles peut être difficile.
 
+Le but de cette article est de permettre aux chercheurs de comprendre l'importance des principes de standards de reproduction, ainsi que de mettre de l'avant les avantages et les inconvéniants de la transparence et de son importance face à l'augmentation des recherches scientifique.
 
-# Analyse
+# mise en contexte
 
-
+Premièrement, l
 
 # Discussion
 
