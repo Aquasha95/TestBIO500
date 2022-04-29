@@ -1,5 +1,5 @@
 ---
-title: Standard de reproductibilité et transparence. des principes importants en recherche.   
+title: Standard de reproductibilité, un principe important en recherche.   
 
 # Use letters for affiliations, numbers to show equal authorship (if applicable) and to indicate the corresponding author
 author:
@@ -36,19 +36,16 @@ lineno: false
 
 Depuis la pandémie, la quantité d'article scientifique publié sur des sites de pré-publication à énormément augmenté. Cette accès facile à la publication sans délais important et sans révisions par les paires est intéressante pour les chercheurs qui veulent faire connaître leurs recherches et cherchant la reconnaissance dans leur domaine. Cepandant, un article publié dans de tel site n'est pas révisé et peut contenir plusieurs erreurs qui, normalement, aurait pu être détecté avec la publication par des réviseur. Ainsi, la reproductibilité des résultats obtenu dans ses articles peut être difficile.
 
-Le but de cette article est de permettre aux chercheurs de comprendre l'importance des principes de standards de reproduction, ainsi que de mettre de l'avant les avantages et les inconvéniants de la transparence et de son importance face à l'augmentation des recherches scientifiques.
+Le but de cette essaie est de permettre aux chercheurs de comprendre l'importance des principes de standards de reproduction, en mettrant de l'avant les avantages et les inconvéniants de la transparence, ainsi que quelques méthodes pour y parvenir.
 
 # mise en contexte
 
-Depuis longtemps, la reproductibilité des expérimentations scientifiques est quelque chose de difficile à atteindre. La majorité des chercheurs, soit près de 70%, affirment n'ayant pas réussi à reproduire l'expérience d'un autre chercheur selon l'article de @baker2016reproducibility. De plus, un journal scientifique est généralement moins enclins à publier un résultat négatif que positif. Ainsi, un article qui en réfute un autre va être moins pris en compte, surtout s'il pourrait s'agir simplement d'un problème de répreduction de l'expérience. Par contre, il est primordial de comprendre l'importance de la reproductibilité dans un contexte scientifique. Étant donné la grande augmentation de rapport de recherche mis à la disposition du publique, la reproductibilité est de plus en importante. Les résultats de ces exprériences pourraient faire l'objet d'intérêt et pourrait donc être reproduit par d'autre chercheur cherchant à pousser plus loins l'analyse ou vérifier les résultats obtenus. Une faible reproductibilité pourrait alors poussé la réflexion vers un résultat infondé ou erronné de l'article source. 
+Il est primordial de comprendre l'importance de la reproductibilité dans un contexte scientifique. Normalement, un journal scientifique va effectuer une révision d'un article reçue pour, ainsi, minimiser les erreurs potentielles. Cependant, même après une révision, la reproductibilité des expérimentations scientifiques est quelque chose de difficile à atteindre. La majorité des chercheurs, soit près de 70%, affirment n'ayant pas réussi à reproduire l'expérience d'un autre chercheur selon l'article de @baker2016reproducibility. Étant donné la grande augmentation de rapport de recherche mis à la disposition du publique sur les sites de pré-publication, la reproductibilité est de plus en importante. Elle permet de s'assurer un minimum d'erreur dans les données d'une analyse, ainsi que d'assurer la fiabilité des résultats obtenus et que l'analyse est juste. Comme les résultats des articles pré-publiés pourraient faire l'objet d'intérêt et pourraient être utilisé par d'autre chercheur cherchant à pousser plus loins l'analyse ou vérifier les résultats obtenus, il faut émettre le doute que les résultats de ces articles ne sont peut-être pas fiables. Ce sont des articles qui n'ont pas été révisé. Si l'on voit les site de pré-publication comme des sites permettant de vérifier la reproductibilité des analyses et pour mettre le doigt sur des erreurs possibles pourraient être une bonne chose. Ainsi ces articles pourraient être poffinée et pourraient par la suite être considéré pour la créatoin de d'autres recherches ou analyses. Il faut par contre, s'assurer que l'article à tout ce qu'il faut pour être reproduites par des paires.
 
-Un autre aspect qui vient jouer un rôle au niveau de la reproductibilité et qui est très important dans plusieurs aspect dans un article de recherche est la transparence. Un sujet où se ne sont pas tout les chercheurs qui sont du même avis. La transparence des données est 
+Pour permettre une meilleure reproductibilité, il y a plusieurs choses a prendre en considération. Tout d'abord, il y la méthode de prise de données
 
 
-
-# Reproductibilité
-
-# Transparence
+Un autre aspect qui vient jouer un rôle au niveau de la reproductibilité et qui est très important dans plusieurs aspect dans un article de recherche est la transparence. Un sujet où se ne sont pas tout les chercheurs qui sont du même avis.
 
 # Conclusion
 
