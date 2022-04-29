@@ -1,5 +1,5 @@
 ---
-title: Transparence et standard de reproductibilité et transparence. des principes importants en recherche.   
+title: Standard de reproductibilité et transparence. des principes importants en recherche.   
 
 # Use letters for affiliations, numbers to show equal authorship (if applicable) and to indicate the corresponding author
 author:
@@ -34,20 +34,21 @@ lineno: false
 
 # Introduction
 
-Depuis la pandémis, la quantité d'article scientifique publié sur des sites de pré-publication à énormément augmenté. Cette accès facile à la publication sans délais important et sans révisions par les paires est intéressante pour les chercheurs qui veulent faire connaître leurs recherches et cherchant la reconnaissance dans leur domaine. Cepandant, un article publié dans de tel site n'est pas révisé et peut contenir plusieurs erreurs qui, normalement, aurait pu être détecté avec la publication par des réviseur. Ainsi, la reproductibilité des résultats obtenu dans ses articles peut être difficile.
+Depuis la pandémie, la quantité d'article scientifique publié sur des sites de pré-publication à énormément augmenté. Cette accès facile à la publication sans délais important et sans révisions par les paires est intéressante pour les chercheurs qui veulent faire connaître leurs recherches et cherchant la reconnaissance dans leur domaine. Cepandant, un article publié dans de tel site n'est pas révisé et peut contenir plusieurs erreurs qui, normalement, aurait pu être détecté avec la publication par des réviseur. Ainsi, la reproductibilité des résultats obtenu dans ses articles peut être difficile.
 
-Le but de cette article est de permettre aux chercheurs de comprendre l'importance des principes de standards de reproduction, ainsi que de mettre de l'avant les avantages et les inconvéniants de la transparence et de son importance face à l'augmentation des recherches scientifique.
+Le but de cette article est de permettre aux chercheurs de comprendre l'importance des principes de standards de reproduction, ainsi que de mettre de l'avant les avantages et les inconvéniants de la transparence et de son importance face à l'augmentation des recherches scientifiques.
 
 # mise en contexte
-Journal publie plus souvent des article qui ont des découverte positive que négative donc un article qui réfute un autre article déjà publié à moins de chance d'être publié.
 
-Depuis longtemps, la reproductibilité des expérimentation scientifique est quelque chose de difficile à atteindre. La majorité des chercheurs, soit près de 70%, affirment n'ayant pas réussi à reproduire l'expérience d'un autre chercheur selon l'article de @baker2016reproducibility.
+Depuis longtemps, la reproductibilité des expérimentations scientifiques est quelque chose de difficile à atteindre. La majorité des chercheurs, soit près de 70%, affirment n'ayant pas réussi à reproduire l'expérience d'un autre chercheur selon l'article de @baker2016reproducibility. De plus, un journal scientifique est généralement moins enclins à publier un résultat négatif que positif. Ainsi, un article qui en réfute un autre va être moins pris en compte, surtout s'il pourrait s'agir simplement d'un problème de répreduction de l'expérience. Par contre, il est primordial de comprendre l'importance de la reproductibilité dans un contexte scientifique. Étant donné la grande augmentation de rapport de recherche mis à la disposition du publique, la reproductibilité est de plus en importante. Les résultats de ces exprériences pourraient faire l'objet d'intérêt et pourrait donc être reproduit par d'autre chercheur cherchant à pousser plus loins l'analyse ou vérifier les résultats obtenus. Une faible reproductibilité pourrait alors poussé la réflexion vers un résultat infondé ou erronné de l'article source. 
 
-Tout d'abord, il est important de comprendre l'importance dela reproductibilité dans un contexte scientifique. Étant donné la grande augmentation de rapport de recherche mis à la disposition du publique, la reproductibilité est de plus en importante. Les résultats de ces exprériences pourraient faire l'objet d'intérêt et pourrait donc être reproduit par d'autre chercheur cherchant à pousser plus loins l'analyse ou vérifier les résultats obtenus. Une faible reproductibilité pourrait alors poussé la réflexion vers un résultat infondé ou erronné de l'article source. De plus, 
-
-# Discussion
+Un autre aspect qui vient jouer un rôle au niveau de la reproductibilité et qui est très important dans plusieurs aspect dans un article de recherche est la transparence. Un sujet où se ne sont pas tout les chercheurs qui sont du même avis. La transparence des données est 
 
 
+
+# Reproductibilité
+
+# Transparence
 
 # Conclusion
 
