@@ -4,11 +4,9 @@ title: Standard de reproductibilité, un principe important en recherche.
 # Use letters for affiliations, numbers to show equal authorship (if applicable) and to indicate the corresponding author
 author:
   - name: Laura Béland
-    affiliation: a
+    affiliation: Université de Sherbrooke, Départment de biologie, 2500 Boulevard de l'Université, Sherbrooke, Québec, J1K 2R1
 
-address:
-  - code: a
-    address: Université de Sherbrooke, Départment de biologie, 2500 Boulevard de l'Université, Sherbrooke, Québec, J1K 2R1
+
 
 abstract: |
  Avec le taux de publication dans des sites de prépublication, les standards de reproductibilité sont de plus en plus importants pour la science, car il est de plus en plus difficile d'obtenir une science juste. Il est possible d'avoir des bons standards en pennant soins de bien gérer nos données, d'utiliser des logiciels qui permettent une meilleure analyse des données en plus de détecter des erreurs potentielles qui affecteraient la reproductibilité et d'offrir une transparence au niveau des données et de l'analyse des études. Ainsi, avec ce type de standards, la science pourra avancer plus rapidement. 
@@ -38,7 +36,7 @@ lineno: false
 
   Le but de cet essai est de permettre aux chercheurs de comprendre l'importance des principes de standards de reproduction, en mettant de l'avant des stratégies tel que la prise de données, l'utilisation de divers logiciels, ainsi que la transparence.
 
-# mise en contexte
+# Mise en contexte
 
   Étant donnée la grande augmentation de rapport de recherche mis à la disposition du public sur les sites de prépublication, la reproductibilité est de plus en importante. Elle permet de s'assurer d'un minimum d'erreur dans les données d'une analyse, ainsi que d'assurer la fiabilité des résultats obtenus et que l'analyse est juste. Comme les résultats des articles prépubliés pourraient faire l'objet d'intérêt et pourraient être utilisés par d'autres chercheurs cherchant à pousser plus loin l'analyse ou vérifier les résultats obtenus, il faut émettre le doute que les résultats de ces articles ne sont peut-être pas fiables. Ce sont des articles qui n'ont pas été révisés et si l'on voit les sites de prépublication comme des sites permettant de vérifier la reproductibilité des analyses pour mettre le doigt sur des erreurs possibles, il faudrait alors mettre tout en oeuvre pour que ces articles soient reproductibles. Ainsi ces articles pourraient être peaufinés et pourraient par la suite être considérés pour la création d'autres recherches ou analyses.
 
