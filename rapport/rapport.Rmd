@@ -1,5 +1,5 @@
 ---
-title: Les standards de reproductibilité, un principe important en recherche."
+title: Les standards de reproductibilité, un principe important en recherche.
 author:
   - name: Laura Béland
     affiliation: a
