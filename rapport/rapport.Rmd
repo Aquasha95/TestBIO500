@@ -1,33 +1,27 @@
 ---
-title: Les standards de reproductibilité, un principe important en recherche.   
-
-# Use letters for affiliations, numbers to show equal authorship (if applicable) and to indicate the corresponding author
+title: "Les standards de reproductibilité, un principe important en recherche."
 author:
-  - name: Laura Béland
-    affiliation: Université de Sherbrooke, Départment de biologie, 2500 Boulevard de l'Université, Sherbrooke, Québec, J1K 2R1
-
-
-
-abstract: |
- Avec le taux de publication dans des sites de prépublication, les standards de reproductibilité sont de plus en plus importants pour la science, car il est de plus en plus difficile d'obtenir une science juste. Il est possible d'avoir des bons standards en pennant soins de bien gérer nos données, d'utiliser des logiciels qui permettent une meilleure analyse des données en plus de détecter des erreurs potentielles qui affecteraient la reproductibilité et d'offrir une transparence au niveau des données et de l'analyse des études. Ainsi, avec ce type de standards, la science pourra avancer plus rapidement. 
-  
-
-keywords:
-  - reproductibilité
-  - transparence
-  - protocole
-  - méthode
-
-## must be one of: pnasresearcharticle (usual two-column layout), pnasmathematics (one column layout), or pnasinvited (invited submissions only)
+- name: Laura Béland
+  affiliation: Université de Sherbrooke, Départment de biologie, 2500 Boulevard de
+    l'Université, Sherbrooke, Québec, J1K 2R1
+abstract: "Avec le taux de publication dans des sites de prépublication, les standards
+  de reproductibilité sont de plus en plus importants pour la science, car il est
+  de plus en plus difficile d'obtenir une science juste. Il est possible d'avoir des
+  bons standards en pennant soins de bien gérer nos données, d'utiliser des logiciels
+  qui permettent une meilleure analyse des données en plus de détecter des erreurs
+  potentielles qui affecteraient la reproductibilité et d'offrir une transparence
+  au niveau des données et de l'analyse des études. Ainsi, avec ce type de standards,
+  la science pourra avancer plus rapidement. \n \n"
+output: pdf_document
 pnas_type: pnasresearcharticle.sty
-
 bibliography: pnas-sample.bib
 csl: pnas.csl
-
-## change to true to add optional line numbering
-lineno: false
-
-#output: rticles::pnas_article
+lineno: no
+keywords:
+- reproductibilité
+- transparence
+- protocole
+- méthode
 ---
 
 # Introduction
