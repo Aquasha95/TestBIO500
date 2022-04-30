@@ -14,11 +14,10 @@ abstract: |
   
 
 keywords:
-  - Bacon number
-  - Centralité
-  - Collaboration
-  - Liens 
-  - Petits mondes
+  - reproductibilité
+  - transparence
+  - protocole
+  - méthode
 
 ## must be one of: pnasresearcharticle (usual two-column layout), pnasmathematics (one column layout), or pnasinvited (invited submissions only)
 pnas_type: pnasresearcharticle.sty
@@ -49,7 +48,7 @@ Un autre aspect qui vient jouer un rôle au niveau de la reproductibilité et qu
 
 # Conclusion
 
-
+Ainsi, les standards de reproductibilité sont imoportants pour un article scientifique. Ils permettent de confirmer les résultats et les analyses présent dans l'articles. Pour s'assurer d'une bonne reproductibilité, il faut avoir des bonnes pratiques au niveau de la prise de données, de l'entreposage de données et de leurs utilisation avec les différent outils d'analyse. Il est également important de faire de la transparence, dans une certaine mesure, pour permettre à d'autres chercheur de pouvoir répliquer la recherche. Même si la science est un domaine en contant développement, si nous ne mettons pas les mesures nécéssaires pour permettre une bonne reproductibilité, il sera difficile d'avancé vers de nouvelles découvertes. 
 
 \newpage
 
