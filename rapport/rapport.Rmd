@@ -1,11 +1,11 @@
 ---
-title: Les standards de reproductibilité, un principe important en recherche.
+title: "Les standards de reproductibilité, un principe important en recherche."
 author:
-  - name: Laura Béland
+  - name: "Laura Béland"
     affiliation: a
 address:
   - code: a
-    address: Université de Sherbrooke, Départment de biologie, 2500 Boulevard de l'Université, Sherbrooke, Québec, J1K 2R1 
+    address: "Université de Sherbrooke, Départment de biologie, 2500 Boulevard de l'Université, Sherbrooke, Québec, J1K 2R1"
 abstract: |
  Avec le taux de publication dans des sites de prépublication, les standards
   de reproductibilité sont de plus en plus importants pour la science, car il est
@@ -27,7 +27,7 @@ pnas_type: pnasresearcharticle
 bibliography: pnas-sample.bib
 csl: pnas.csl
 lineno: false
-output: pdf_document
+output: rticles::pnas_article
 ---
 
 # Introduction
