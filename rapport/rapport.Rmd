@@ -1,5 +1,5 @@
 ---
-title: Standard de reproductibilité, un principe important en recherche.   
+title: Les standards de reproductibilité, un principe important en recherche.   
 
 # Use letters for affiliations, numbers to show equal authorship (if applicable) and to indicate the corresponding author
 author:
